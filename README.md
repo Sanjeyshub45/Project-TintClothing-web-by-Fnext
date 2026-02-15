@@ -2,6 +2,13 @@
 
 A comprehensive, web-based Point of Sale (POS) system designed for Tint Clothing. This application streamlines retail operations including billing, inventory management, sales tracking, and return/exchange processing.
 
+## UI Lookups:
+
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="images/Screenshot%202026-02-15%20at%2012.10.16%E2%80%AFPM.png" width="300"> | <img src="images/Screenshot%202026-02-15%20at%2012.10.37%E2%80%AFPM.png" width="300"> | <img src="images/Screenshot%202026-02-15%20at%2012.10.46%E2%80%AFPM.png" width="300"> |
+| <img src="images/Screenshot%202026-02-15%20at%2012.10.56%E2%80%AFPM.png" width="300"> | <img src="images/Screenshot%202026-02-15%20at%2012.11.10%E2%80%AFPM.png" width="300"> | <img src="images/Screenshot%202026-02-15%20at%2012.11.21%E2%80%AFPM.png" width="300"> |
 
 ##  Key Features
 
@@ -41,4 +48,4 @@ A comprehensive, web-based Point of Sale (POS) system designed for Tint Clothing
 
 ## License
 
-Owned by Fnext created by Sanjey Sivagurunathan
+This project is private and belongs to **Fnext**, created by **Sanjey Sivagurunathan**.
